@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer should render correctly 1`] = `
+<body>
+  <div>
+    <footer
+      class="sc-blHHSb hcIBfi"
+    >
+      <div
+        class="sc-gtLWhw bUoMZA"
+      >
+        <div
+          class="sc-egkSDF fOCywZ"
+        >
+          Useful links
+        </div>
+        <div
+          class="sc-fAUdSK jqQrVA"
+        >
+          <a
+            class="sc-dntaoT iATqZd"
+            href="#"
+          >
+            Our treatments
+          </a>
+          <a
+            class="sc-dntaoT iATqZd"
+            href="#"
+          >
+            Our team
+          </a>
+          <a
+            class="sc-dntaoT iATqZd"
+            href="#"
+          >
+            Delivery Guarantee
+          </a>
+          <a
+            class="sc-dntaoT iATqZd"
+            href="#"
+          >
+            Customer Testimonials
+          </a>
+          <a
+            class="sc-dntaoT iATqZd"
+            href="#"
+          >
+            FAQ
+          </a>
+          <a
+            class="sc-dntaoT iATqZd"
+            href="#"
+          >
+            Coming soon
+          </a>
+        </div>
+      </div>
+      <div
+        class="sc-gtLWhw bUoMZA"
+      >
+        <div
+          class="sc-egkSDF fOCywZ"
+        >
+          Contact Us
+        </div>
+        <div
+          class="sc-fAUdSK jqQrVA"
+        >
+          <p>
+            Mobile: 07000 000 000
+          </p>
+          <p>
+            Landline: 0200 000 0000
+          </p>
+          <p>
+            -----------------------
+          </p>
+          <p>
+            info@example.com
+          </p>
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+`;

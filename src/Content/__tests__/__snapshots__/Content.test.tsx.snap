@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content should render correctly 1`] = `
+<body>
+  <div>
+    <div
+      class="sc-blHHSb gLAEXT"
+      role="main"
+    >
+      <div
+        class="sc-gtLWhw bhtvLb"
+      >
+        <h1
+          class="sc-egkSDF iafcA-D"
+        >
+          Are you aged between 0 and 100?
+        </h1>
+        <div
+          class="sc-dntaoT cqssgI"
+        >
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_valid_age_yes"
+          >
+            Yes
+          </button>
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_valid_age_no"
+          >
+            No
+          </button>
+        </div>
+      </div>
+      <div
+        class="sc-gtLWhw crRhgt"
+      >
+        <h1
+          class="sc-egkSDF iafcA-D"
+        >
+          Do you like eating fruit?
+        </h1>
+        <div
+          class="sc-dntaoT cqssgI"
+        >
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_likes_fruit_yes"
+          >
+            Yes
+          </button>
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_likes_fruit_no"
+          >
+            No
+          </button>
+        </div>
+      </div>
+      <div
+        class="sc-gtLWhw crRhgt"
+      >
+        <h1
+          class="sc-egkSDF iafcA-D"
+        >
+          Have you ever had an allergic reaction to the Genovian pear?
+        </h1>
+        <div
+          class="sc-dntaoT cqssgI"
+        >
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_previous_allergy_yes"
+          >
+            Yes
+          </button>
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_previous_allergy_no"
+          >
+            No
+          </button>
+        </div>
+      </div>
+      <div
+        class="sc-gtLWhw crRhgt"
+      >
+        <h1
+          class="sc-egkSDF iafcA-D"
+        >
+          Are you currently taking any allergy medication?
+        </h1>
+        <div
+          class="sc-dntaoT cqssgI"
+        >
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_allergy_medication_yes"
+          >
+            Yes
+          </button>
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_allergy_medication_no"
+          >
+            No
+          </button>
+        </div>
+      </div>
+      <div
+        class="sc-gtLWhw crRhgt"
+      >
+        <h1
+          class="sc-egkSDF iafcA-D"
+        >
+          Are you currently taking any other medication?
+        </h1>
+        <div
+          class="sc-dntaoT cqssgI"
+        >
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_other_medication_yes"
+          >
+            Yes
+          </button>
+          <button
+            class="sc-ivxoEo eQSpqy"
+            data-testid="t_other_medication_no"
+          >
+            No
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

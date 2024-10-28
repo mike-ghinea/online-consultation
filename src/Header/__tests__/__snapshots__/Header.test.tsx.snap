@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render correctly 1`] = `
+<body>
+  <div>
+    <header
+      class="sc-blHHSb jzQQDl"
+    >
+      <img
+        alt="MedExpress logo"
+        class="sc-gtLWhw jKGAVT"
+        src="[object Object]"
+      />
+    </header>
+  </div>
+</body>
+`;
