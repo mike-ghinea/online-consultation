@@ -56,7 +56,7 @@ const Button = styled.button`
   }
   &:hover,
   &:focus {
-    box-shadow: 0 0 0 2px #24cb34;
+    box-shadow: 0 0 0 5px #24cb34;
   }
 `;
 
